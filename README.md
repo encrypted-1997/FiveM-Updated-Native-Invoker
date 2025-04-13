@@ -1,6 +1,10 @@
 **My Discord**
 _encrypt3d.
 
+**Credits**
+Original Invoker code from : [SuckaSkidding](https://github.com/SuckaSkidding/New-FiveM-Cheat/blob/main/native.hpp)
+Native class from : [GTAV Native DB](https://alloc8or.re/gta5/nativedb/)
+
 **Detected Banned for 300 days**  
 Use at your own risk If you do not care about ban from CFX
 
