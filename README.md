@@ -1,3 +1,6 @@
+**My Discord**
+_encrypt3d.
+
 **Detected. Banned for 300 days.**  
 Use at your own risk If you do not care about ban from CFX
 
