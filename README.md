@@ -15,7 +15,7 @@ Refer to the official FiveM GitHub repository for the implementation of the `Map
 ### 2. Find the MapNative Function in `rage-scripting-five.dll`
 
 - Navigate to your FiveM installation folder and locate the `rage-scripting-five.dll` file
-- Load it to IDA or any debugger
+- Load it to IDA or any debugger (you can use WinDBG also)
 - start finding uint64_t MapNative(uint64_t inNative) like in the picture, I've uploaded
 - Once youve found it (as shown in the picture i uploaded), click on the address once to highlight it in yellow
 - Then click at Hex View Tab You’ll see the bytes highlighted in green
