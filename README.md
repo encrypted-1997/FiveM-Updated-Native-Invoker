@@ -18,3 +18,7 @@ Refer to the official FiveM GitHub repository for the implementation of the `Map
 - Then click at Hex View Tab You’ll see the bytes highlighted in green
 - Copy those bytes and replace the mapped_hash_addy pattern in the code(E9 BB FB FF FF) with your copied bytes
 - successfully updated it!
+
+![Alt text1](https://i.imgur.com/d7GxXA9.png)
+![Alt text2](https://i.imgur.com/pa22Euj.png)
+
