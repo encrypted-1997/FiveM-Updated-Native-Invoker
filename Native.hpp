@@ -237,7 +237,7 @@ private:
 			if (!rscripting_module) return;
 
 			mapped_hash_addy = Memory::PatternScanEx(rscripting_module, E("E9 BB FB FF FF"), NULL); // E9 BB FB FF FF
-			fn_addy = (NativeHandler)Memory::PatternScanEx(rscripting_module, E("E9 ? ? ? ? ? 48 8B 15"), NULL); // E9 ? ? ? ? ? 48 8B 15
+			fn_addy = (NativeHandler)Memory::PatternScanEx(rscripting_module, E("E9 ? ? ? ? ? 48 8B 15"), NULL); // E9 ? ? ? ? ? 48 8B 15 // GetProcAddress(mod, "?GetNativeHandler@scrEngine@rage@@SAP6AXPEAVscrNativeCallContext@2@@Z_K@Z");
 
 			if (mapped_hash_addy && fn_addy)
 				initialized = true;
